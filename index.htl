@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Wedding website</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="product">
+        <div class="product-small-img">
+            <img src="https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="product image" onclick="myFunction(this)">
+            <img src="https://karuva.site/wp-content/uploads/2024/04/logo-karuva-loader-02.jpg" alt="product image" onclick="myFunction(this)">
+            <img src="https://karuva.site/wp-content/uploads/2024/05/9.jpg" alt="product image" onclick="myFunction(this)">
+            <img src="https://karuva.site/wp-content/uploads/2024/05/Bodas-Basico-Vertical-1080-x-1350-px.jpg" alt="product image" onclick="myFunction(this)">
+        </div>
+
+        <div class="img-container">
+            <img id="imageBox" src="https://karuva.site/wp-content/uploads/2024/05/11.jpg" alt="product image">
+        </div>
+    </div>
+</body>
+</html>
